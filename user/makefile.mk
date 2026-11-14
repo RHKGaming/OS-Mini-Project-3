@@ -13,7 +13,7 @@ USER_PROGS := \
 	rm\
 	sh\
 	stressfs\
-	test1-test2-test2\
+	test1-test2-test3\
 	tester\
 	usertests\
 	wc\
